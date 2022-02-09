@@ -23,25 +23,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          - name: Run MATLAB Tests
-  # You may pin to the exact commit or the version.
-  # uses: matlab-actions/run-tests@45eb98a48208056c40a052f21f758da97b9b0a89
-  uses: matlab-actions/run-tests@v1.0.1
-  with:
-    # Location of the folder containing source code
-    source-folder: # optional, default is 
-    # Location of the folder containing test files
-    select-by-folder: # optional, default is 
-    # Test tag used to select test suite elements
-    select-by-tag: # optional, default is 
-    # Path to write test results report in PDF format
-    test-results-pdf: # optional, default is 
-    # Path to write test results report in JUnit XML format
-    test-results-junit: # optional, default is 
-    # Path to export Simulink Test Manager results in MLDATX format
-    test-results-simulink-test: # optional, default is 
-    # Path to write code coverage report in Cobertura XML format
-    code-coverage-cobertura: # optional, default is 
-    # Path to write model coverage report in Cobertura XML format
-    model-coverage-cobertura: # optional, default is 
-
+      
