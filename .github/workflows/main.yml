@@ -24,36 +24,25 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-- name: Execute Job
+- name: Run MATLAB Tests
   # You may pin to the exact commit or the version.
-  # uses: parasoft/execute-job-action@1899d360584e281e027c537d2df0f75a1115776e
-  uses: parasoft/execute-job-action@1.0.7
+  # uses: matlab-actions/run-tests@45eb98a48208056c40a052f21f758da97b9b0a89
+  uses: matlab-actions/run-tests@v1.0.1
   with:
-    # CTP URL
-    ctpUrl: 
-    # CTP Username
-    ctpUsername: 
-    # CTP Password
-    ctpPassword: 
-    # CTP Test Execution Job Name
-    ctpJob: 
-    # Abort the job after timeout exceeded
-    abortOnTimeout: # optional
-    # Timeout value in minutes
-    timeoutInMinutes: # optional
-    # Publish test execution results to DTP
-    publishReport: # optional
-    # DTP URL
-    dtpUrl: # optional
-    # DTP Username
-    dtpUsername: # optional
-    # DTP Password
-    dtpPassword: # optional
-    # DTP Project Name
-    dtpProject: # optional
-    # Build ID to send to DTP
-    buildId: # optional
-    # Session Tag to send to DTP
-    sessionTag: # optional
-    # Append the test variable set environment name to the session tag
-    appendEnvironment: # optional
+    # Location of the folder containing source code
+    source-folder: # optional, default is 
+    # Location of the folder containing test files
+    select-by-folder: # optional, default is 
+    # Test tag used to select test suite elements
+    select-by-tag: # optional, default is 
+    # Path to write test results report in PDF format
+    test-results-pdf: # optional, default is 
+    # Path to write test results report in JUnit XML format
+    test-results-junit: # optional, default is 
+    # Path to export Simulink Test Manager results in MLDATX format
+    test-results-simulink-test: # optional, default is 
+    # Path to write code coverage report in Cobertura XML format
+    code-coverage-cobertura: # optional, default is 
+    # Path to write model coverage report in Cobertura XML format
+    model-coverage-cobertura: # optional, default is 
+
