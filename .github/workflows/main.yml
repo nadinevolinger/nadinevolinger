@@ -23,8 +23,7 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-- name: Run MATLAB Tests
+          - name: Run MATLAB Tests
   # You may pin to the exact commit or the version.
   # uses: matlab-actions/run-tests@45eb98a48208056c40a052f21f758da97b9b0a89
   uses: matlab-actions/run-tests@v1.0.1
