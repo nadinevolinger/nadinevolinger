@@ -25,4 +25,9 @@
     
   ![Snake animation](https://github.com/nadinevolinger/nadinevolinger/blob/output/github-contribution-grid-snake.svg)
     
+   <p align="center">
+    <a href="#">
+      <img src="https://komarev.com/ghpvc/?username=nadinevolinger&color=green&style=flat&label=Views" />
+    </a>
+  </p>
 </div>
