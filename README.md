@@ -2,7 +2,7 @@
 
 - 🌱 Estou estudando linguagens de programação front-end
 - 😄 Meus pronomes são ela/dela
-- 🎓 Concluí meu ensino médio integrado ao técnico de informática em 2021 pelo Instituto Federal Catarinense, e agora curso Análise e Desenvolvimento de Sistemas
+- 🎓 Concluí meu ensino médio integrado ao técnico de informática em 2021, e agora curso Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/nadinevolinger">
