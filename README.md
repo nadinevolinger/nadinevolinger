@@ -1,7 +1,9 @@
 ## Oii! Eu sou a Nadine
 
 - 🌱 Estou estudando linguagens de programação front-end
+
 - 😄 Meus pronomes são ela/dela
+
 - 🎓 Concluí meu ensino médio integrado ao técnico de informática em 2021, e agora curso Análise e Desenvolvimento de Sistemas
 
 <div align="center">
