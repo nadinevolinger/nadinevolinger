@@ -6,6 +6,7 @@
 
 - 🎓 Concluí meu ensino médio integrado ao técnico de informática em 2021, e agora curso Análise e Desenvolvimento de Sistemas
 
+
 <div align="center">
   <a href="https://github.com/nadinevolinger">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nadinevolinger&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
