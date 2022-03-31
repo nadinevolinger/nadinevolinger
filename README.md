@@ -1,10 +1,10 @@
-## Oii! Eu sou a Nadine
+## Hello! I am Nadine
 
-- ♀️ Meus pronomes são ela/dela
+- ♀️ My pronouns are she/her
 
-- 🌱 Estou estudando linguagens de programação front-end
+- 🌱 I'm learning front-end programming languages and here you can see some of my journey
 
-- 🎓 Concluí meu ensino médio integrado ao técnico de informática em 2021, e agora curso Análise e Desenvolvimento de Sistemas
+- 🎓 I completed my high school integrated with the IT technician in 2021, and I'm current studying Systems Analysis and Development
 
 
 <div align="center">
