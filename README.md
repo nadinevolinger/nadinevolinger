@@ -2,8 +2,6 @@
 
 - ♀️ My pronouns are she/her
 
-- :earth_americas: I'm a brasilian citizen who was born and raised in Brasil
-
 - 🌱 I'm learning front-end programming languages and here you can see some of my journey
 
 - 🎓 I completed my high school integrated with the IT technician in 2021, and I'm current studying Systems Analysis and Development
