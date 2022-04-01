@@ -8,6 +8,8 @@
 
 - 🎓 I completed my high school integrated with the IT technician in 2021, and I'm current studying Systems Analysis and Development
 
+- :envelope_with_arrow: My repositories codes are all written in english but all the information on the pages are in my native language (portuguese) so if you have any doubt about the texts or codes you can message me on my e-mail and I will do my best to explaying/translate to you
+
 
 <div align="center">
   <a href="https://github.com/nadinevolinger">
