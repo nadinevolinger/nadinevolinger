@@ -35,9 +35,4 @@
       <img src="https://komarev.com/ghpvc/?username=nadinevolinger&color=green&style=flat&label=Views" />
     </a>
     </p>
-   <p align="center">
-    <a href="#">
-     <img scr="https://img.shields.io/github/followers/nadinevolinger.svg?style=social&label=Follow&maxAge=2592000">
-    </a>
-  </p>
 </div>
