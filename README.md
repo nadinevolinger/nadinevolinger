@@ -35,5 +35,8 @@
     <a href="#">
       <img src="https://komarev.com/ghpvc/?username=nadinevolinger&color=green&style=flat&label=Views" />
     </a>
+    <a href="#">
+     <img scr="https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000">
+    </a>
   </p>
 </div>
