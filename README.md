@@ -1,4 +1,4 @@
-## Hello! I'm Nadine
+## Hello Stranger! I'm Nadine
 
 - ♀️ My pronouns are she/her
 
